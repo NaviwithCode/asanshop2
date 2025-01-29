@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+/* .slick-arrow{position: absolute;  border-radius: 14px; color: black; top: 47%;  width: 40px; height: 40px;}
+.slick-arrow.slick-next{right: 2%;}
+.slick-arrow.slick-prev{left: 2%;}
+.slick-arrow.slick-next::before{color: black;font-size: 2rem;}
+.slick-arrow.slick-prev::before{color: black;font-size: 2rem; z-index: 100;}
+.slick-dots{position: absolute; bottom: 30px; font-size: 3rem;}
+.slick-dots li button::before{width: 10px; height: 10px; font-size: 16px; color: #007bff;}
+.slick-dots li.slick-active button::before{color: #007bff;}
+.item{position: relative;}
+.item .info{position: absolute; top: 18%; left: 10%; z-index: 100;} */
+/* .item .info h2{font-size: 55px; font-weight: bolder; color: rgba(0, 0,0, 0.7);} */
+/* .item .infod{position: absolute; top: 30%; left: 10%; z-index: 100;}
+.item .infod h2{font-size: 20px; margin-bottom: -4px; color: white;}
+.item .infod h1{font-size: 55px; margin-bottom: 4px; font-weight: bolder; color: yellow;} */
+/* .item .info p{font-size: 20px; font-weight: 500; color: #7e7e7e;} */
+/* .item .infod p{font-size: 20px; font-weight: 500; color: #7e7e7e;} */
+/* .btn {position: absolute; bottom: 135px; left: 10%; z-index: 10;}
+.btn button{font-size: 20px; font-weight: 500; color: #000000; background-color: white; display: flex; align-items: center; margin: 14px; border-radius: 50px;} */
+
